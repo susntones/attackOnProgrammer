@@ -1,5 +1,7 @@
 ***pg_ctl***
 
+mac 启动postgresql pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+
 ***psql***
 
 ***pg_dump***
